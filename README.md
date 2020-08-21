@@ -1,8 +1,5 @@
-### Hi there 👋
+### hi im brando and i make stuff lol
 
-Im Brando!
-
-- 🔭 I’m currently working on The Real Breadbot
-- 🌱 I’m currently learning Javascript
-- 😄 Pronouns: He/Him
-- :umbrella: Website: https://breadcrumb.fun
+- i dont know what to put here 
+- i like to code
+- i am a bit to obsessed with bread
