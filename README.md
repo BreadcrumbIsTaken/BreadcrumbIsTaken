@@ -5,6 +5,7 @@
 - i am a bit to obsessed with bread
 - i am slowly going insane lmao
 
+Python is my favorite programming language 
 
 
 
