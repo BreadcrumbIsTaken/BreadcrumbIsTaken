@@ -17,6 +17,6 @@ C# is cool too.
   
  # Pinned
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BreadcrumbIsTaken&repo=wobbly-icon-theme&theme=buefy)](https://github.com/BreadcrumbIsTaken/wobbly-icon-theme)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BreadcrumbIsTaken&repo=MCSkinerBoi&theme=buefy)](https://github.com/BreadcrumbIsTaken/MCSkinerBoi)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BreadcrumbIsTaken&repo=SpamThingPython&theme=buefy)](https://github.com/BreadcrumbIsTaken/SpamThingPython)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BreadcrumbIsTaken&repo=wobbly-icon-theme&theme=react)](https://github.com/BreadcrumbIsTaken/wobbly-icon-theme)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BreadcrumbIsTaken&repo=MCSkinerBoi&theme=react)](https://github.com/BreadcrumbIsTaken/MCSkinerBoi)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BreadcrumbIsTaken&repo=SpamThingPython&theme=react)](https://github.com/BreadcrumbIsTaken/SpamThingPython)
