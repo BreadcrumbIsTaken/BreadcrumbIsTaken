@@ -6,59 +6,50 @@
   <h1>print('hi im brando and i make stuff lol')</h1>
 </div>
 
-## def hobbies() -> list:
+```python
+def hobbies() -> list:
+    hobbies = [
+        'Programming! 💻',
+        'Drawing! ✏',
+        'Listening to Lo-Fi Hip-Hop! 🎶',
+        'Playing video games! 🎮'
+    ]
+    return hobbies
 
-&nbsp;&nbsp;&nbsp;&nbsp;hobbies = [
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'Programming! &#128187;',
+def languages_i_know() -> list:
+    language_and_skill = [
+        {'language': 'HTML', 'skill_level': '⭐⭐⭐⭐⭐'},
+        {'language': 'CSS', 'skill_level': '⭐⭐⭐⭐'},
+        {'language': 'Python', 'skill_level': '⭐⭐⭐⭐'},
+        {'language': 'Markdown', 'skill_level': '⭐⭐⭐⭐⭐'},
+        {'language': 'C#', 'skill_level': '⭐⭐'},
+        {'language': 'Javascript', 'skill_level': '⭐⭐'},
+        {'language': 'PHP', 'skill_level': '⭐⭐'},
+    ]
+    return language_and_skill
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'Drawing! &#9997;',
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'Listening to Lo-Fi Hip-Hop! &#127925;',
+def favorite_food() -> str:
+    # Ironic right? Breadcrumb's favorite food is not bread.
+    return 'Mashed Potatoes and Meatballs'
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'Playing video games! &#127918;'
 
-&nbsp;&nbsp;&nbsp;&nbsp;]
-            
-&nbsp;&nbsp;&nbsp;&nbsp;return hobbies
+def favorite_drink() -> str:
+    return 'Rootbeer'
 
-## def languages_i_know() -> list:
 
-&nbsp;&nbsp;&nbsp;&nbsp;language_and_skill = [
+def computer_specs() -> dict:
+    return {'GPU': 'NVIDIA GeForce RTX 2060', 'CPU': 'Intel (R) UHD Graphics 630', 'OS': 'Windows 10'}
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{'language': 'HTML', 'skill_level': '⭐⭐⭐⭐⭐'},
+```
+<div align="center">
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{'language': 'CSS', 'skill_level': '⭐⭐⭐⭐'},
+## GitHub Stats:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{'language': 'Python', 'skill_level': '⭐⭐⭐⭐'},
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BreadcrumbIsTaken&layout=compact&langs_count=8&custom_title=Breadcrumb%27s%20Most%20Used%20Langs%21&theme=radical" />
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{'language': 'Markdown', 'skill_level': '⭐⭐⭐⭐⭐'},
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=BreadcrumbIsTaken&count_private=true&show_icons=true&include_all_commits=true&custom_title=Breadcrumb%27s%20Super%20Kewl%20Github%20Stats%21%20%3AD&theme=radical" />
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{'language': 'C#', 'skill_level': '⭐⭐'},
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{'language': 'Javascript', 'skill_level': '⭐⭐'},
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{'language': 'PHP', 'skill_level': '⭐⭐'},
-
-&nbsp;&nbsp;&nbsp;&nbsp;]
-
-&nbsp;&nbsp;&nbsp;&nbsp;return language_and_skill
-
-## def favorite_food() -> str:
-&nbsp;&nbsp;&nbsp;&nbsp;# Ironic right? Breadcrumb's favorite food is not bread.
-
-&nbsp;&nbsp;&nbsp;&nbsp;return 'Mashed Potatoes and Meatballs'
-
-## def favorite_drink() -> str:
-
-&nbsp;&nbsp;&nbsp;&nbsp;return 'Rootbeer'
-
-## def computer_specs() -> dict:
-
-&nbsp;&nbsp;&nbsp;&nbsp;return {'GPU': 'NVIDIA GeForce RTX 2060', 'CPU': 'Intel (R) UHD Graphics 630', 'OS': 'Windows 10'}
-
-## def stats(user='BreadcrumbIsTaken'):
-  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BreadcrumbIsTaken&count_private=true&show_icons=true&include_all_commits=true&custom_title=Breadcrumb%27s%20Super%20Kewl%20Github%20Stats%21%20%3AD&theme=radical" />
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BreadcrumbIsTaken&layout=compact&langs_count=8&custom_title=Breadcrumb%27s%20Most%20Used%20Langs%21&theme=radical" />
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Breadcrumb&layout=compact&theme=radical&custom_title=Breadcrumb%27s%20Wakatime%20Stats%20%3A0" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Breadcrumb&layout=compact&theme=radical&custom_title=Breadcrumb%27s%20Wakatime%20Stats%20%3A0" />
+</div>
