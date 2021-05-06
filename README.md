@@ -20,9 +20,9 @@ def hobbies() -> list:
 def languages_i_know() -> list:
     language_and_skill = [
         {'language': 'HTML', 'skill_level': '⭐⭐⭐⭐⭐'},
+        {'language': 'Markdown', 'skill_level': '⭐⭐⭐⭐⭐'},
         {'language': 'CSS', 'skill_level': '⭐⭐⭐⭐'},
         {'language': 'Python', 'skill_level': '⭐⭐⭐⭐'},
-        {'language': 'Markdown', 'skill_level': '⭐⭐⭐⭐⭐'},
         {'language': 'C#', 'skill_level': '⭐⭐'},
         {'language': 'Javascript', 'skill_level': '⭐⭐'},
         {'language': 'PHP', 'skill_level': '⭐⭐'},
