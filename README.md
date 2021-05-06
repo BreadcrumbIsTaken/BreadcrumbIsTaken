@@ -44,6 +44,15 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;return language_and_skill
 
+## def favorite_food() -> str:
+&nbsp;&nbsp;&nbsp;&nbsp;# Ironic right? Breadcrumb's favorite food is not bread.
+
+&nbsp;&nbsp;&nbsp;&nbsp;return 'Mashed Potatoes and Meatballs'
+
+## def favorite_drink() -> str:
+
+&nbsp;&nbsp;&nbsp;&nbsp;return 'Rootbeer'
+
 ## class Stats(GithubUser):
 
   &nbsp;&nbsp;&nbsp;&nbsp;def \_\_init__(user='BreadcrumbIsTaken'):
