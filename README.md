@@ -8,7 +8,7 @@
 
 ```python
 def hobbies() -> list:
-    hobbies = [
+    hobbies: list = [
         'Programming! 💻',
         'Drawing! ✏',
         'Listening to Lo-Fi Hip-Hop! 🎶',
@@ -18,7 +18,7 @@ def hobbies() -> list:
 
 
 def languages_i_know() -> list:
-    language_and_skill = [
+    language_and_skill: list = [
         {'language': 'HTML', 'skill_level': '⭐⭐⭐⭐⭐'},
         {'language': 'Markdown', 'skill_level': '⭐⭐⭐⭐⭐'},
         {'language': 'CSS', 'skill_level': '⭐⭐⭐⭐'},
@@ -42,6 +42,9 @@ def favorite_drink() -> str:
 
 def computer_specs() -> dict:
     return {'GPU': 'NVIDIA GeForce RTX 2060', 'CPU': 'Intel (R) UHD Graphics 630', 'OS': 'Windows 10'}
+    
+def favorite_ide() -> str:
+    return 'PyCharm'
 
 ```
 <div align="center">
