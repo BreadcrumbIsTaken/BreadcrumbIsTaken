@@ -12,7 +12,9 @@ def hobbies() -> list:
         'Programming! 💻',
         'Drawing! ✏',
         'Listening to Lo-Fi Hip-Hop! 🎶',
-        'Playing video games! 🎮'
+        'Playing video games! 🎮',
+        'Making Minecraft videos',
+        'Making my devlogs!'
     ]
     return hobbies
 
@@ -30,6 +32,11 @@ def languages_i_know() -> list:
     ]
     return language_and_skill
 
+def languages_that_i_want_to_know() -> list:
+    languages_to_learn: list = [
+       'C++', 'Rust', 'Golang', 'C', 'Kotlin', 'Java'
+    ]
+    return: languages_to_learn
 
 def favorite_food() -> str:
     # Ironic right? Breadcrumb's favorite food is not bread.
@@ -44,7 +51,7 @@ def computer_specs() -> dict:
     return {'GPU': 'NVIDIA GeForce RTX 2060', 'CPU': 'Intel (R) UHD Graphics 630', 'OS': 'Windows 10'}
     
 def favorite_ide() -> str:
-    return 'PyCharm'
+    return 'Visual Studio'
 
 ```
 <div align="center">
