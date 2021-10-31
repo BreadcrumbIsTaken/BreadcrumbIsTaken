@@ -62,9 +62,6 @@ def favorite_ide() -> str:
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=BreadcrumbIsTaken&count_private=true&show_icons=true&include_all_commits=true&custom_title=Breadcrumb%27s%20Super%20Kewl%20Github%20Stats%21%20%3AD&theme=radical" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Breadcrumb&layout=compact&theme=radical&custom_title=Breadcrumb%27s%20Wakatime%20Stats%20%3A0" />
-</div>
-
 <div align="center">
   
 ## Currently Learning:
