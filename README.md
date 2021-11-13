@@ -37,22 +37,27 @@ def languages_that_i_want_to_know() -> list:
        'C++', 'Rust', 'Golang', 'C', 'Kotlin', 'Java'
     ]
     return: languages_to_learn
+    
 
 def favorite_food() -> str:
     # Ironic right? Breadcrumb's favorite food is not bread.
     return 'Mashed Potatoes and Meatballs'
-
+    
 
 def favorite_drink() -> str:
     return 'Rootbeer'
-
+    
 
 def computer_specs() -> dict:
     return {'GPU': 'NVIDIA GeForce RTX 2060', 'CPU': 'Intel (R) UHD Graphics 630', 'OS': 'Windows 10'}
     
+    
 def favorite_ide() -> str:
     return 'Visual Studio'
 
+
+def currently_learning() -> str:
+  return 'C++'
 ```
 <div align="center">
 
