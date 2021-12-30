@@ -57,7 +57,7 @@ def favorite_ide() -> str:
 
 
 def currently_learning() -> str:
-  return 'C++'
+  return 'Rust'
 ```
 <div align="center">
 
@@ -71,5 +71,5 @@ def currently_learning() -> str:
   
 ## Currently Learning:
   
-### **C++**
+### **Rust**
 </div>
