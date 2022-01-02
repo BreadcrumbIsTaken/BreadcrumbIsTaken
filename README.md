@@ -34,7 +34,7 @@ def languages_i_know() -> list:
 
 def languages_that_i_want_to_know() -> list:
     languages_to_learn: list = [
-       'C++', 'Rust', 'Golang', 'C', 'Kotlin', 'Java'
+       'Go', 'C', 'C++', 'Java'
     ]
     return: languages_to_learn
     
@@ -47,13 +47,9 @@ def favorite_food() -> str:
 def favorite_drink() -> str:
     return 'Rootbeer'
     
-
-def computer_specs() -> dict:
-    return {'GPU': 'NVIDIA GeForce RTX 2060', 'CPU': 'Intel (R) UHD Graphics 630', 'OS': 'Windows 10'}
-    
     
 def favorite_ide() -> str:
-    return 'Visual Studio'
+    return 'Visual Studio Code'
 
 
 def currently_learning() -> str:
