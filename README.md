@@ -72,5 +72,5 @@ def currently_learning() -> str:
   
 ## Currently Learning:
   
-### **Rust**
+### **[Rust](https://rust-lang.org)**
 </div>
