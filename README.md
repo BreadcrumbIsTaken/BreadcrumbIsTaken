@@ -57,6 +57,9 @@ def currently_learning() -> str:
 ```
 <div align="center">
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+  
 ## GitHub Stats:
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BreadcrumbIsTaken&layout=compact&langs_count=8&custom_title=Breadcrumb%27s%20Most%20Used%20Langs%21&theme=radical" />
