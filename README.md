@@ -57,7 +57,7 @@ def currently_learning() -> str:
 ```
 <div align="center">
 
-## Time spent coding:
+## Weekly Development Breakdown:
   
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
