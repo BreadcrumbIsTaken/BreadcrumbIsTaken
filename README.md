@@ -60,6 +60,13 @@ def currently_learning() -> str:
 ## Weekly Development Breakdown:
   
 <!--START_SECTION:waka-->
+```text
+Rust         1 hr 35 mins    ████████████████▒░░░░░░░░   64.73 % 
+Markdown     14 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
+JSON         13 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
+Git Config   11 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
+Other        4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
+```
 <!--END_SECTION:waka-->
   
 ## GitHub Stats:
