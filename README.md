@@ -6,6 +6,10 @@
   <h1>print('hi im brando and i make stuff lol')</h1>
 </div>
 
+<div align='center'>
+  <img src='https://wakatime.com/badge/user/579d6e69-f91a-4a71-9119-b9f35cac7d1f.svg?style=for-the-badge'>
+</div>
+
 ```python
 def hobbies() -> list:
     hobbies: list = [
