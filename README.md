@@ -61,11 +61,11 @@ def currently_learning() -> str:
   
 <!--START_SECTION:waka-->
 ```text
-Denizen      3 hrs 1 min     ███████████████████▒░░░░░   77.23 % 
-Git Config   22 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
-HTML         11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
-Rust         9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
-JavaScript   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+Denizen      3 hrs 1 min     ███████████████████▓░░░░░   79.19 % 
+Git Config   22 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
+HTML         11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
+Rust         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
+JavaScript   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
 ```
 <!--END_SECTION:waka-->
   
