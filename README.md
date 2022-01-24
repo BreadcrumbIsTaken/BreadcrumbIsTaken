@@ -72,12 +72,6 @@ JSON      1 min           ░░░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
   
-## GitHub Stats:
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BreadcrumbIsTaken&layout=compact&langs_count=8&custom_title=Breadcrumb%27s%20Most%20Used%20Langs%21&theme=radical" />
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=BreadcrumbIsTaken&count_private=true&show_icons=true&include_all_commits=true&custom_title=Breadcrumb%27s%20Super%20Kewl%20Github%20Stats%21%20%3AD&theme=radical" />
-
 <div align="center">
   
 ## Currently Learning:
