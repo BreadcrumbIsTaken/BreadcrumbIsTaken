@@ -65,10 +65,10 @@ def currently_learning() -> str:
   
 <!--START_SECTION:waka-->
 ```text
-Rust      2 hrs 45 mins   █████████████████░░░░░░░░   68.26 % 
-Denizen   1 hr 7 mins     ███████░░░░░░░░░░░░░░░░░░   28.01 % 
-TOML      5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
-JSON      2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+Rust      2 hrs 52 mins   █████████████████░░░░░░░░   68.33 % 
+Denizen   1 hr 7 mins     ██████▓░░░░░░░░░░░░░░░░░░   26.85 % 
+TOML      9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+JSON      2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
 ```
 <!--END_SECTION:waka-->
   
