@@ -79,7 +79,7 @@ Markdown     1 min           ░░░░░░░░░░░░░░░░░
 ## Very Cool Links:
   
 ### [Website 🍞](https://breadcrumb.fun)
-### [Youtube ▶️](https://www.youtube.com/channel/UCT1_5td4SWg67fhElGz1S4A?sub_confirmation=1)
+### [Youtube ▶️](https://www.youtube.com/BreadcrumbMC?sub_confirmation=1)
 ### [Twitch 🟪](https://twitch.tv/breadcrumbistaken)
 ### [Odysee 🌠](https://odysee.com/@Breadcrumb:6)
 ### [Minecraft Server Devlog Series 🧑‍💻](https://www.youtube.com/playlist?list=PLUU0f6lFdRVHc6FYvv9SlZK8uwlFOKteQ)
