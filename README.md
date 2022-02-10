@@ -3,61 +3,74 @@
 </div>
 
 <div align='center'>
-  <h1>print('hi im brando and i make stuff lol')</h1>
+  <h1>println!("hi im brando and i make stuff lol")</h1>
 </div>
 
 <div align='center'>
   <img src='https://wakatime.com/badge/user/579d6e69-f91a-4a71-9119-b9f35cac7d1f.svg?style=for-the-badge'>
 </div>
 
-```python
-def hobbies() -> list:
-    hobbies: list = [
-        'Programming! 💻',
-        'Drawing! ✏',
-        'Listening to Lo-Fi Hip-Hop! 🎶',
-        'Playing video games! 🎮',
-        'Making Minecraft videos',
-        'Making my devlogs!'
+```rs
+fn hobbies() -> Vec<String> {
+    vec![
+        String::from("Programming! 💻"),
+        String::from("Drawing! ✏️"),
+        String::from("Listening to music! 🎵🎶"),
+        String::from("Playing video games! 🕹"),
+        String::from("Making Minecraft videos! 🟩"),
+        String::from("Making my Devlogs! 🙃"),
     ]
-    return hobbies
+}
 
-
-def languages_i_know() -> list:
-    language_and_skill: list = [
-        {'language': 'HTML', 'skill_level': '⭐⭐⭐⭐⭐'},
-        {'language': 'Markdown', 'skill_level': '⭐⭐⭐⭐⭐'},
-        {'language': 'CSS', 'skill_level': '⭐⭐⭐⭐'},
-        {'language': 'Python', 'skill_level': '⭐⭐⭐⭐'},
-        {'language': 'DenizenScript', 'skill_level': '⭐⭐⭐'},
-        {'language': 'C#', 'skill_level': '⭐⭐'},
-        {'language': 'Javascript', 'skill_level': '⭐⭐'},
-        {'language': 'PHP', 'skill_level': '⭐⭐'},
+fn languages_i_know() -> Vec<String> {
+    vec![
+        String::from("HTML: ⭐⭐⭐⭐⭐"),
+        String::from("Markdown: ⭐⭐⭐⭐⭐"),
+        String::from("CSS: ⭐⭐⭐⭐"),
+        String::from("Python: ⭐⭐⭐⭐"),
+        String::from("DenizenScript: ⭐⭐⭐⭐"),
+        String::from("Rust: ⭐⭐⭐"),
+        String::from("C#: ⭐⭐⭐"),
+        String::from("Javascript: ⭐⭐"),
+        String::from("PHP: ⭐⭐"),
+        String::from("C++: ⭐")
     ]
-    return language_and_skill
+}
 
-def languages_that_i_want_to_know() -> list:
-    languages_to_learn: list = [
-       'Go', 'C', 'C++', 'Java'
+fn languages_i_want_to_learn() -> Vec<String> {
+    vec![
+        String::from("Go"),
+        String::from("C"),
+        String::from("C++"),
     ]
-    return: languages_to_learn
-    
+}
 
-def favorite_food() -> str:
-    # Ironic right? Breadcrumb's favorite food is not bread.
-    return 'Mashed Potatoes and Meatballs'
-    
+fn favorite_food() -> String {
+    // Ironic right? Breadcrumb's favorite food is not bread. It's a close on though!
+    String::from("Mashed Potatoes and Meatballs")
+}
 
-def favorite_drink() -> str:
-    return 'Rootbeer'
-    
-    
-def favorite_ide() -> str:
-    return 'Visual Studio Code'
+fn favorite_drink() -> String {
+    String::from("Rootbeer")
+}
 
+fn favorite_ide() -> String {
+    String::from("Visual Studio Code")
+}
 
-def currently_learning() -> str:
-  return 'Rust'
+fn currently_learning() -> String {
+    String::from("Rust!")
+}
+
+fn main() {
+    let hobbies = hobbies();
+    let languages_i_know = languages_i_know();
+    let languages_i_want_to_learn = languages_i_want_to_learn();
+    let favorite_food = favorite_food();
+    let favorite_drink = favorite_drink();
+    let favorite_ide = favorite_ide();
+    let currently_learning = currently_learning();
+}
 ```
 <div align="center">
 
