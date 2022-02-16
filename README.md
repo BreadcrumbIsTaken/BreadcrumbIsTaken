@@ -78,6 +78,8 @@ fn main() {
   
 <!--START_SECTION:waka-->
 ```text
+Total: 7 hrs 27 mins
+
 CSON         4 hrs 36 mins   ███████████████▒░░░░░░░░░   61.66 % 
 Denizen      2 hrs 26 mins   ████████▒░░░░░░░░░░░░░░░░   32.69 % 
 Markdown     17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
