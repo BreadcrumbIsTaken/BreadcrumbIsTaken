@@ -19,6 +19,7 @@ fn hobbies() -> Vec<String> {
         String::from("Playing video games! 🕹"),
         String::from("Making Minecraft videos! 🟩"),
         String::from("Making my Devlogs! 🙃"),
+        String::from("Watching Lost in Space! 🚀🚀🚀"),
     ]
 }
 
@@ -46,7 +47,7 @@ fn languages_i_want_to_learn() -> Vec<String> {
 }
 
 fn favorite_food() -> String {
-    // Ironic right? Breadcrumb's favorite food is not bread. It's a close on though!
+    // Ironic right? Breadcrumb's favorite food is not bread. It's a close one though!
     String::from("Mashed Potatoes and Meatballs")
 }
 
