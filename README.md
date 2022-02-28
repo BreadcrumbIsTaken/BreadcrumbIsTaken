@@ -78,15 +78,16 @@ fn main() {
 ## Weekly Development Breakdown:
   
 <!--START_SECTION:waka-->
-```text
-Total: 7 hrs 27 mins
 
-CSON         4 hrs 36 mins   ███████████████▒░░░░░░░░░   61.66 % 
-Denizen      2 hrs 26 mins   ████████▒░░░░░░░░░░░░░░░░   32.69 % 
-Markdown     17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
-Git Config   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
-JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+```text
+CSS          47 mins         ████████████▓░░░░░░░░░░░░   50.41 %
+HTML         28 mins         ███████▓░░░░░░░░░░░░░░░░░   30.51 %
+JavaScript   10 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.68 %
+Markdown     4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.17 %
+YAML         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
 ```
+
 <!--END_SECTION:waka-->
   
 ## Currently Learning:
