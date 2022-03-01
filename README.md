@@ -80,12 +80,7 @@ fn main() {
 <!--START_SECTION:waka-->
 
 ```text
-CSS          47 mins         ████████████▓░░░░░░░░░░░░   50.41 %
-HTML         28 mins         ███████▓░░░░░░░░░░░░░░░░░   30.51 %
-JavaScript   10 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.68 %
-Markdown     4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.17 %
-YAML         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
