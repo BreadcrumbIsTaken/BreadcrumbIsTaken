@@ -80,7 +80,9 @@ fn main() {
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+JavaScript   53 mins         ██████████████████▓░░░░░░   75.20 %
+HTML         11 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.22 %
+CSS          6 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 %
 ```
 
 <!--END_SECTION:waka-->
