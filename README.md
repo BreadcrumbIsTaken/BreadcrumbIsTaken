@@ -100,6 +100,7 @@ Text         0 secs          ░░░░░░░░░░░░░░░░░
 ### [Youtube ▶️](https://www.youtube.com/BreadcrumbMC?sub_confirmation=1)
 ### [Twitch 🟪](https://twitch.tv/breadcrumbistaken)
 ### [Odysee 🌠](https://odysee.com/@Breadcrumb:6)
+### [Discord 🎮](https://discord.gg/F5fGYQJfgw)
 ### [Minecraft Server Devlog Series 🧑‍💻](https://www.youtube.com/playlist?list=PLUU0f6lFdRVHc6FYvv9SlZK8uwlFOKteQ)
   
 </div>
