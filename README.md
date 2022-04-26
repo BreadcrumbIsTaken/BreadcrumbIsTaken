@@ -81,9 +81,9 @@ fn main() {
 <!--START_SECTION:waka-->
 
 ```text
-Denizen   4 hrs 47 mins   ███████████████████░░░░░░   76.47 %
-Blender   50 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.45 %
-Rust      37 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.08 %
+Denizen   5 hrs 40 mins   █████████████████▒░░░░░░░   69.38 %
+Rust      1 hr 39 mins    █████░░░░░░░░░░░░░░░░░░░░   20.34 %
+Blender   50 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.29 %
 ```
 
 <!--END_SECTION:waka-->
