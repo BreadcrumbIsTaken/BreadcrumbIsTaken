@@ -43,6 +43,7 @@ fn languages_i_want_to_learn() -> Vec<String> {
         String::from("Go"),
         String::from("C"),
         String::from("C++"),
+        String::from("Java"),
     ]
 }
 
