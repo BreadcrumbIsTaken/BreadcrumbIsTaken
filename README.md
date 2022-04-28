@@ -3,80 +3,75 @@
 </div>
 
 <div align='center'>
-  <h1>println!("hi im brando and i make stuff lol")</h1>
+  <h1>hi im brando and i make stuff lol</h1>
 </div>
 
 <div align='center'>
   <img src='https://wakatime.com/badge/user/579d6e69-f91a-4a71-9119-b9f35cac7d1f.svg?style=for-the-badge'>
 </div>
 
-```rs
-fn hobbies() -> Vec<String> {
-    vec![
-        String::from("Programming! 💻"),
-        String::from("Drawing! ✏️"),
-        String::from("Listening to music! 🎵🎶"),
-        String::from("Playing video games! 🕹"),
-        String::from("Making Minecraft videos! 🟩"),
-        String::from("Making my Devlogs! 🙃"),
-        String::from("Watching Lost in Space! 🚀🚀🚀"),
-    ]
-}
-
-fn languages_i_know() -> Vec<String> {
-    vec![
-        String::from("HTML: ⭐⭐⭐⭐⭐"),
-        String::from("Markdown: ⭐⭐⭐⭐⭐"),
-        String::from("CSS: ⭐⭐⭐⭐"),
-        String::from("Python: ⭐⭐⭐⭐"),
-        String::from("DenizenScript: ⭐⭐⭐⭐"),
-        String::from("Rust: ⭐⭐⭐"),
-        String::from("C#: ⭐⭐⭐"),
-        String::from("Javascript: ⭐⭐"),
-        String::from("PHP: ⭐⭐"),
-        String::from("C++: ⭐")
-    ]
-}
-
-fn languages_i_want_to_learn() -> Vec<String> {
-    vec![
-        String::from("Go"),
-        String::from("C"),
-        String::from("C++"),
-        String::from("Java"),
-    ]
-}
-
-fn favorite_food() -> String {
-    // Ironic right? Breadcrumb's favorite food is not bread. It's a close one though!
-    String::from("Mashed Potatoes and Meatballs")
-}
-
-fn favorite_drink() -> String {
-    String::from("Rootbeer")
-}
-
-fn favorite_ide() -> String {
-    String::from("Visual Studio Code")
-}
-
-fn currently_learning() -> String {
-    String::from("Rust!")
-}
-
-fn main() {
-    let hobbies = hobbies();
-    let languages_i_know = languages_i_know();
-    let languages_i_want_to_learn = languages_i_want_to_learn();
-    let favorite_food = favorite_food();
-    let favorite_drink = favorite_drink();
-    let favorite_ide = favorite_ide();
-    let currently_learning = currently_learning();
-}
-```
 <div align="center">
 
-## Weekly Development Breakdown:
+## 🙂 About Me
+
+Hi I'm Brando (otherwise known as "Breadcrumb" on the interwebz 🤘🤘🤘) and I love programming.
+I have a very cool [Youtube channel](https://youtube.com/BreadcrumbMC) and [Odysee channel](https://odysee.com/@Breadcrumb:6) where I post very unique, original, and fun programming related content.
+I love the game Minecraft and I even like to [program my own servers!](https://github.com/BreadcrumbIsTaken/BreadVibesMC). I am currently working on one called BreadVibesMC which is a project that I make [devlogs](https://www.youtube.com/playlist?list=PLUU0f6lFdRVHc6FYvv9SlZK8uwlFOKteQ) for on my YouTube and Odysee channels.
+
+## 💖 Some Favorites
+
+Some of my favorite GitHub projects include:
+
+<table>
+<tr>
+<th align="center">
+<img width="380" height="1-px">
+<p> 
+<small>
+
+[![BreadVibesMC](https://github-readme-stats.vercel.app/api/pin/?username=BreadcrumbIsTaken&repo=BreadVibesMC)](https://github.com/BreadcrumbIsTaken/BreadVibesMC)
+
+</small>
+</p>
+</th>
+<th align="center">
+<img width="380" height="1">
+<p> 
+<small>
+
+[![wobbly-icon-theme](https://github-readme-stats.vercel.app/api/pin/?username=BreadcrumbIsTaken&repo=wobbly-icon-theme)](https://github.com/BreadcrumbIsTaken/wobbly-icon-theme)
+
+</small>
+</p>
+</th>
+</tr>
+<tr>
+<td>
+
+[![RootbeerSSG](https://github-readme-stats.vercel.app/api/pin/?username=BreadcrumbIsTaken&repo=RootbeerSSG)](https://github.com/BreadcrumbIsTaken/RootbeerSSG)
+  
+</td>
+<td>
+  
+[![denizenscript-grammar](https://github-readme-stats.vercel.app/api/pin/?username=DenizenScript&repo=denizenscript-grammar&show_owner=true)](https://github.com/DenizenScript/denizenscript-grammar)
+  
+</td>
+</tr>
+<tr>
+<td>
+
+[![old.breadcrumb.fun](https://github-readme-stats.vercel.app/api/pin/?username=BreadcrumbIsTaken&repo=old.breadcrumb.fun)](https://github.com/BreadcrumbIsTaken/RootbeerSSG)
+
+</td>
+<td>
+
+[![old.breadcrumb.fun](https://github-readme-stats.vercel.app/api/pin/?username=BreadcrumbIsTaken&repo=denizen-bounties)](https://github.com/BreadcrumbIsTaken/denizen-bounties)
+
+</td>
+</tr>
+</table>
+
+## ⌛ Weekly Development Breakdown:
   
 <!--START_SECTION:waka-->
 
@@ -89,17 +84,89 @@ Markdown   15 mins         ▓░░░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
   
-## Currently Learning:
+## 🔗 Links
+
+<table>
+<tr>
+<th align="center">
+<img width="380" height="1-px">
+<p> 
+<small>
+
+[![YouTube](https://breadcrumb.fun/assets/img/blog.png)](https://youtube.com/BreadcrumbMC)
+
+#### YouTube
+
+</small>
+</p>
+</th>
+<th align="center">
+<img width="380" height="1">
+<p> 
+<small>
+
+[![Twitch](https://breadcrumb.fun/assets/img/links.png)](https://twitch.tv/BreadcrumbIsTaken)
+
+#### Twitch
+
+</small>
+</p>
+</th>
+</tr>
+<tr>
+<td>
+
+[![YouTube](https://breadcrumb.fun/assets/img/odysee.png)](https://odysee.com/@Breadcrumb:6)
+
+#### Odysee
   
-### **[Rust](https://rust-lang.org)**
+</td>
+<td>
   
-## Very Cool Links:
+[![Website](https://breadcrumb.fun/assets/img/code.png)](https://breadcrumb.fun)
+
+#### Website
   
-### [Website 🍞](https://breadcrumb.fun)
-### [Youtube ▶️](https://www.youtube.com/BreadcrumbMC?sub_confirmation=1)
-### [Twitch 🟪](https://twitch.tv/breadcrumbistaken)
-### [Odysee 🌠](https://odysee.com/@Breadcrumb:6)
-### [Discord 🎮](https://discord.gg/F5fGYQJfgw)
-### [Minecraft Server Devlog Series 🧑‍💻](https://www.youtube.com/playlist?list=PLUU0f6lFdRVHc6FYvv9SlZK8uwlFOKteQ)
-  
+</td>
+</tr>
+<tr>
+<td>
+
+[![Discord Server](https://breadcrumb.fun/assets/img/discord-server.png)](https://discord.gg/F5fGYQJfgw)
+
+#### Discord Server
+
+</td>
+<td>
+
+[![Instagram](https://breadcrumb.fun/assets/img/videos.png)](https://instagram.com/BreadcrumbIsTaken)
+
+#### Instagram
+
+</td>
+</tr>
+<tr>
+<td>
+
+[![Twitter](https://breadcrumb.fun/assets/img/home.png)](https://twitter.com/BreadcrumbMC)
+
+#### Twitter
+
+</td>
+<td>
+
+<a href="https://www.youtube.com/playlist?list=PLUU0f6lFdRVHc6FYvv9SlZK8uwlFOKteQ">
+
+<img src="https://repository-images.githubusercontent.com/444246545/ec11bc01-5889-418e-bef0-2d34f429d87c" width="320">
+
+</a>
+
+#### Minecraft Server Devlogs
+
+</td>
+</tr>
+</table>
+
 </div>
+
+###### 🍞🍞🍞
