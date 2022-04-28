@@ -113,7 +113,7 @@ Markdown   15 mins         ▓░░░░░░░░░░░░░░░░�
 </p>
 </th>
 </tr>
-<tr>
+<tr align="center">
 <td>
 
 [![YouTube](https://breadcrumb.fun/assets/img/odysee.png)](https://odysee.com/@Breadcrumb:6)
@@ -129,7 +129,7 @@ Markdown   15 mins         ▓░░░░░░░░░░░░░░░░�
   
 </td>
 </tr>
-<tr>
+<tr align="center">
 <td>
 
 [![Discord Server](https://breadcrumb.fun/assets/img/discord-server.png)](https://discord.gg/F5fGYQJfgw)
@@ -145,7 +145,7 @@ Markdown   15 mins         ▓░░░░░░░░░░░░░░░░�
 
 </td>
 </tr>
-<tr>
+<tr align="center">
 <td>
 
 [![Twitter](https://breadcrumb.fun/assets/img/home.png)](https://twitter.com/BreadcrumbMC)
