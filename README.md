@@ -3,11 +3,11 @@
 </div>
 
 <div align='center'>
-  <h1>hi im brando and i make stuff lol</h1>
+  <h1>hi im brando and i make stuff lol <img width='50' src='https://user-images.githubusercontent.com/63469489/174101420-5e6e7b78-fd73-4e5e-a4e1-8ce0c7a2fb48.png'></div>
 </div>
 
 <div align='center'>
-  <img src='https://wakatime.com/badge/user/579d6e69-f91a-4a71-9119-b9f35cac7d1f.svg?style=for-the-badge'>
+  <img height='260' src='https://user-images.githubusercontent.com/63469489/174100297-95d02110-72a3-4401-9c4f-34ed300a55e2.png'>
 </div>
 
 <div align="center">
@@ -73,6 +73,10 @@ Some of my favorite GitHub projects include:
 
 ## ⌛ Weekly Development Breakdown:
   
+<div align='center'>
+  <img src='https://wakatime.com/badge/user/579d6e69-f91a-4a71-9119-b9f35cac7d1f.svg?style=for-the-badge'>
+</div>
+  
 <!--START_SECTION:waka-->
 
 ```text
@@ -85,8 +89,8 @@ TOML         6 mins          ▒░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-  
-## 🔗 Links
+<details>
+  <summary><h2>🔗 Links</h2></summary>
 
 <table>
 <tr>
@@ -162,6 +166,7 @@ TOML         6 mins          ▒░░░░░░░░░░░░░░░░
 <img src="https://repository-images.githubusercontent.com/444246545/ec11bc01-5889-418e-bef0-2d34f429d87c" width="320">
 
 </a>
+  </summary>
 
 #### Minecraft Server Devlogs
 
