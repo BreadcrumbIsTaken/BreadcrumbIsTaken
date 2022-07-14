@@ -60,12 +60,12 @@ Some of my favorite GitHub projects include:
 <tr>
 <td>
 
-[![old.breadcrumb.fun](https://github-readme-stats.vercel.app/api/pin/?username=BreadcrumbIsTaken&repo=old.breadcrumb.fun)](https://github.com/BreadcrumbIsTaken/RootbeerSSG)
+[![mcgen](https://github-readme-stats.vercel.app/api/pin/?username=BreadcrumbIsTaken&repo=mcgen)](https://github.com/BreadcrumbIsTaken/mcgen)
 
 </td>
 <td>
 
-[![old.breadcrumb.fun](https://github-readme-stats.vercel.app/api/pin/?username=BreadcrumbIsTaken&repo=denizen-bounties)](https://github.com/BreadcrumbIsTaken/denizen-bounties)
+[![denizen-bounties](https://github-readme-stats.vercel.app/api/pin/?username=BreadcrumbIsTaken&repo=denizen-bounties)](https://github.com/BreadcrumbIsTaken/denizen-bounties)
 
 </td>
 </tr>
