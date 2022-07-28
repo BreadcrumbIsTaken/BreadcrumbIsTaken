@@ -73,10 +73,6 @@ Some of my favorite GitHub projects include:
 
 ## ⌛ Weekly Development Breakdown:
   
-<div align='center'>
-  <img src='https://wakatime.com/badge/user/579d6e69-f91a-4a71-9119-b9f35cac7d1f.svg?style=for-the-badge'>
-</div>
-  
 <!--START_SECTION:waka-->
 
 ```text
