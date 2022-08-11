@@ -76,7 +76,12 @@ Some of my favorite GitHub projects include:
 <!--START_SECTION:waka-->
 
 ```text
-Denizen   19 mins         █████████████████████████   100.00 %
+Denizen    26 mins         █████████▓░░░░░░░░░░░░░░░   39.22 %
+CSHTML     26 mins         █████████▒░░░░░░░░░░░░░░░   37.85 %
+Bash       9 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.33 %
+Markdown   3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 %
+C#         2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 %
+CSS        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
 ```
 
 <!--END_SECTION:waka-->
