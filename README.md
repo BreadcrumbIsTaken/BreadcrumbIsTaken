@@ -76,12 +76,11 @@ Some of my favorite GitHub projects include:
 <!--START_SECTION:waka-->
 
 ```text
-Java             3 hrs 16 mins   ███████████████████████▒░   92.75 %
-XML              11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.40 %
-Denizen          3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
-Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
-Text             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Java             4 hrs 52 mins   ██████████████████████▓░░   90.26 %
+XML              29 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.18 %
+Markdown         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+Text             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
