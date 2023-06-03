@@ -75,12 +75,12 @@ Some of my favorite GitHub projects include:
   
 <!--START_SECTION:waka-->
 
-```text
-GDScript     4 hrs 47 mins   ██████████████████████░░░   87.88 %
-Other        21 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.60 %
-Denizen      12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 %
-INI          5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+```txt
+GDScript     4 hrs 57 mins   █████████████████████░░░░   83.45 %
+Other        21 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.06 %
+Java         18 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.15 %
+Denizen      10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
+INI          5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
 ```
 
 <!--END_SECTION:waka-->
