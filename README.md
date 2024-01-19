@@ -76,11 +76,11 @@ Some of my favorite GitHub projects include:
 <!--START_SECTION:waka-->
 
 ```txt
-C#           2 hrs 2 mins    █████████████████░░░░░░░░   67.80 %
-Binary       27 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.03 %
-Other        18 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.37 %
-Denizen      4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
-Blender      3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
+C#           1 hr 27 mins    ████████████████▓░░░░░░░░   66.57 %
+Binary       20 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.82 %
+Other        10 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 %
+Denizen      4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 %
+Blender      3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
 ```
 
 <!--END_SECTION:waka-->
