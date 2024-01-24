@@ -76,8 +76,10 @@ Some of my favorite GitHub projects include:
 <!--START_SECTION:waka-->
 
 ```txt
-Blender   1 hr 41 mins    ████████████████████████░   95.68 %
-Denizen   4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 %
+Blender   1 hr 39 mins    ███████████████▓░░░░░░░░░   62.09 %
+C#        58 mins         █████████░░░░░░░░░░░░░░░░   36.38 %
+Denizen   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
+Java      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
