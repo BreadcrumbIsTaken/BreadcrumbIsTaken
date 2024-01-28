@@ -65,7 +65,7 @@ Some of my favorite GitHub projects include:
 </td>
 <td>
 
-[![denizen-bounties](https://github-readme-stats.vercel.app/api/pin/?username=BreadcrumbIsTaken&repo=denizen-bounties)](https://github.com/BreadcrumbIsTaken/denizen-bounties)
+[![denizen-bounties](https://github-readme-stats.vercel.app/api/pin/?username=BreadcrumbIsTaken&repo=TicTacToe)](https://github.com/BreadcrumbIsTaken/TicTacToe)
 
 </td>
 </tr>
