@@ -76,7 +76,11 @@ Some of my favorite GitHub projects include:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Rust       21 mins         ████████████░░░░░░░░░░░░░   48.66 %
+Java       20 mins         ███████████▓░░░░░░░░░░░░░   47.24 %
+XML        1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
+TOML       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
+Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
