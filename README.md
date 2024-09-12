@@ -76,11 +76,7 @@ Some of my favorite GitHub projects include:
 <!--START_SECTION:waka-->
 
 ```txt
-HTML            1 hr 39 mins    ██████████████████████▒░░   88.74 %
-CSS             8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 %
-JSON            3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 %
-Other           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
-PHP             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
