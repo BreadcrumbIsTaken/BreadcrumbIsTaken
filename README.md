@@ -2,20 +2,15 @@
   <img width='260' height='260' src='https://avatars.githubusercontent.com/u/63469489?v=4'>
 </div>
 
-<div align='center'>
-  <h1>hi im brando and i make stuff lol <img width='50' src='https://user-images.githubusercontent.com/63469489/174101420-5e6e7b78-fd73-4e5e-a4e1-8ce0c7a2fb48.png'></div>
-</div>
-
-<div align='center'>
-  <img height='260' src='https://user-images.githubusercontent.com/63469489/174100297-95d02110-72a3-4401-9c4f-34ed300a55e2.png'>
-</div>
-
 <div align="center">
 
 ## 🙂 About Me
 
-Hi I'm Brando (otherwise known as "Breadcrumb" on the interwebz 🤘🤘🤘) and I love programming.
-I have a very cool [website](https://breadcrumb.fun) where I post very unique, original, and fun programming related content.
+Hi I'm Brando.
+
+I do not program very often anymore, but I still enjoy doing it occasionally as a hobby.
+
+I have a cool [website](https://breadcrumb.fun) where I post very unique, original, and fun programming related content.
 I love the game Minecraft and I even like to [program my own servers!](https://github.com/BreadcrumbIsTaken/BreadVibesMC). I also enjoy contributing to projects that include my own and others'. Most recently I've been contributing to the [DenizenScript](https://github.com/DenizenScript) projects. I currently am the maintainer of the GitHub integration with DenizenScript and maintain the [grammar file](https://github.com/DenizenScript/denizenscript-grammar) used by [Linguist](https://github.com/github/linguist) to provide syntax highlighting on this website. I've also gotten DenizenScript support added to [WakaTime](https://wakatime.com) and [CLOC](https://github.com/AlDanial/cloc/pull/629) I dabble in many things and I am a big fan of things like [Godot](https://godotengine.org) and I've more recently begun working with C#!.
 
 ## 💖 Some Favorites
